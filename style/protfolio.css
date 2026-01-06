@@ -29,8 +29,8 @@ header{
 }
 nav{
     display: flex;
-    width: 70%;
-    max-width: 1750px;
+    width: 71%;
+    max-width: 1140px;
     margin: 0 auto;
     justify-content: space-between;
    align-items: center;
